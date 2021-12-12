@@ -28,7 +28,7 @@ body {
 	background-repeat: no-repeat;
 	height: 80vh;
 	border-radius: 50px;
-	color: black;
+	color: rgb(54, 52, 52);
 	cursor: pointer;
 	flex: 0.5;
 	margin: 10px;
@@ -43,12 +43,12 @@ body {
 	left: 8%;
 	margin: 0;
 	opacity: 0;
-	color: darkslategrey; 
+	color: #1c3334; 
 }
 .panel.active {
 	flex: 5;
 	border: solid;
-	border-color: rgb(17, 54, 8);
+	border-color: #5d5c61;
 	border-width: 1px 3px;
 }
 .panel.active h3 {
